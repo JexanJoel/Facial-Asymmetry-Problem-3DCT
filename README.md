@@ -1,14 +1,6 @@
 # Quantifying Facial Asymmetry Using 3D CT Imaging
 
-Facial asymmetry is a clinically important condition associated with
-developmental variation, trauma, congenital anomalies, and surgical
-interventions. Accurate and objective assessment of facial asymmetry is
-essential for diagnosis, treatment planning, postoperative evaluation, and
-long-term follow-up in craniofacial and maxillofacial practice.
-
-Despite the availability of three-dimensional computed tomography (3D CT)
-imaging, facial asymmetry quantification remains a challenging and
-non-standardized problem.
+Facial asymmetry is a clinically important condition associated with developmental variation, trauma, congenital anomalies, and surgical interventions. Accurate and objective assessment of facial asymmetry is essential for diagnosis, treatment planning, postoperative evaluation, and long-term follow-up in craniofacial and maxillofacial practice. Despite the availability of three-dimensional computed tomography (3D CT) imaging, facial asymmetry quantification remains a challenging and non-standardized problem.
 
 ---
 
