@@ -1,4 +1,4 @@
-# Problem Statement: Quantifying Facial Asymmetry Using 3D CT Imaging
+# Quantifying Facial Asymmetry Using 3D CT Imaging
 
 Facial asymmetry is a clinically important condition associated with
 developmental variation, trauma, congenital anomalies, and surgical
